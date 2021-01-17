@@ -1106,20 +1106,18 @@ header .logo {
 	float: left;
 	margin-left: 20px;
 	margin-right: 50px;
-	margin-top: 25px;
+	margin-top: 22px;
 	position: relative;
 }
-header .logo a {
+header .logo p {
 	display: block;
 	margin: 0;
 	padding: 0;
 	border: none;
-	font: 0/0 a;
+	font: 20px "poppins-bold";
 	text-shadow: none;
-	color: transparent;
-	width: 92px;
+	color: white;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
